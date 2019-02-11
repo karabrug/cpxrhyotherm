@@ -1,7 +1,7 @@
 # cpxrhyotherm
 **Low-Aluminum Clinopyroxene-Liquid Geothermometer for High-Silica Magmatic Systems**
 
-*This Jupyter Notebook (cpxrhyotherm.ipynb) is a companion to:
+*This Jupyter Notebook (cpxrhyotherm.ipynb, cpxrhyotherm.xlsx) is a companion to:
 Brugman & Till (2019) "A Low-Aluminum Clinopyroxene-Liquid Geothermometer for High-Silica Magmatic Systems".
 See instructions and guidelines therein.*
 
@@ -11,7 +11,7 @@ See instructions and guidelines therein.*
 
 ___
 
-Requirements:
+Requirements for the Jupyter Notebook:
 
 • Python v3.6 or higher
 
