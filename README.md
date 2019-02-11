@@ -5,6 +5,8 @@
 Brugman & Till (2019) "A Low-Aluminum Clinopyroxene-Liquid Geothermometer for High-Silica Magmatic Systems".
 See instructions and guidelines therein.*
 
+*Please direct questions to the author: kara.brugman@gmail.com*
+
 Requirements:
 
 • Python v3.6 or higher
