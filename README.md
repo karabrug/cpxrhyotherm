@@ -7,11 +7,17 @@ See instructions and guidelines therein.*
 
 *Please direct questions to the author: kara.brugman@gmail.com*
 
+*Licensed under a GNU General Public License v3.0 https://www.gnu.org/licenses/gpl-3.0.en.html*
+
+___
+
 Requirements:
 
 • Python v3.6 or higher
 
 • Pandas
+
+___
 
 **For use only with clinopyroxene with Mg# ≤ 65 and Al2O3 ≤ 7 wt% from a bulk rock with SiO2 ≥ 70 wt%**
 
